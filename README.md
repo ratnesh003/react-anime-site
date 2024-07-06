@@ -8,7 +8,7 @@ The react website with GSAP and Scroll trigger for animation. This site was a fr
 
 For the better perspective You can compare the hosted project with figma file
 
-- [Live link]()
+- [Live link](https://glocal-by-ratneshpasi.vercel.app/)
 - [Figma Design](https://www.figma.com/design/Ykvy7Ht926eIyLyT1S1LXF/Assignment-(Copy)?node-id=0-1&t=L3rcpWm7kyVpCcgl-1)
 
 ### Tech Stack
@@ -30,7 +30,7 @@ For the better perspective You can compare the hosted project with figma file
 
 clone the repo
 ```
-    git clone 
+    git clone https://github.com/ratnesh003/react-anime-site.git
 ```
 
 run the project

@@ -31,9 +31,9 @@ const NavBar = () => {
   return (
     <React.Fragment>
       <nav className="fixed left-0 top-0 w-full h-[108px] bg-white py-5 px-12 flex items-center justify-between gap-[102px]" ref={component}>
-        {/* <div className="absolute text-sm roboto-medium text-red-600 top-0 left-0 tracking-tighter">
+        <div className="absolute text-sm roboto-medium text-red-600 top-0 left-0 tracking-tighter">
           Please view of 1440 X 900 display cause developed as per figma file
-        </div> */}
+        </div>
         <div className="w-32 pl-6 bg-white flex items-center justify-center gap-[5px]">
           <img src={logo} alt="logo" height={"64px"} width={"67px"} className="object-contain"/>
           <h2 className="first-letter:text-[#ffaa00] text-3xl roboto-bold text-[#ffe55e] ">Glocal</h2>
